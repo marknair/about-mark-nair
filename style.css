@@ -1,0 +1,13 @@
+.shoebox {
+    align-items: start;
+    display: flex;
+}
+
+.shoebox_picture {
+    margin-right: 16px;
+    width: 400px;
+}
+
+.shoebox_writing {
+    flex: 1;
+}
